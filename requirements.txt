@@ -1,0 +1,17 @@
+# Python version
+# This file is compatible with Python 3.
+
+# Core data manipulation and analysis libraries
+pandas
+numpy
+scipy
+scikit-learn
+statsmodels
+scikeras
+
+# Visualization libraries
+matplotlib
+seaborn
+
+# Jupyter environment
+jupyter
