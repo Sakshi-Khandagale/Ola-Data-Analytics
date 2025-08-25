@@ -113,23 +113,23 @@ The interactive dashboard provides business insights at a glance:
 
 ### 🔎 Overall  
 Summary metrics: total rides, total revenue, average fare, ride duration trends  
-![Overall](screenshots/overall.png)
+![Overall](overall.png)
 
 ### 🚘 Vehicle Type Analysis  
 Revenue, demand, and ratings by vehicle category (Mini, Prime, Auto, etc.)  
-![Vehicle Type](screenshots/vehicle_type.png)
+![Vehicle Type](vehicle_type.png)
 
 ### 💰 Revenue Insights  
 Breakdown by hour, fare distribution, extra charges & tips contribution  
-![Revenue](screenshots/revenue.png)
+![Revenue](revenue.png)
 
 ### ❌ Cancellations  
 Cancellation rates, reasons, and trends across time/vehicle types  
-![Cancellations](screenshots/cancellations.png)
+![Cancellations](cancellation.png)
 
 ### ⭐ Ratings  
 Customer & driver ratings distribution + comparisons  
-![Ratings](screenshots/ratings.png)
+![Ratings](ratings1.png)
 
 👉 Open `OLA_Dashboard.pbix` in **Power BI Desktop** for the full experience.  
 
